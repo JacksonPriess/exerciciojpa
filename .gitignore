@@ -1,0 +1,8 @@
+.project
+.classpath
+.settings/
+/bin/
+deployment.json
+dadossql
+*.jar
+*.class
